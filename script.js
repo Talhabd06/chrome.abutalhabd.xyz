@@ -10,6 +10,6 @@ btn.addEventListener('click', () =>{
  setTimeout( () =>{
     stutus.style.display="none"
     download.classList.add('display');
-}, 6000);
+}, 5000);
 
 });
